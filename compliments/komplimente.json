@@ -1,0 +1,17 @@
+{
+    "anytime" : [
+        "Du siehst gut aus!"
+    ],
+    "morning" : [
+        "Guten Morgenood morning, sunshine!",
+        "Hattest du schon Kaffee?",
+        "Auf in den Tag!"
+    ],
+    "afternoon" : [
+        "Bald ist Feierabend!",
+    ],
+    "evening" : [
+        "Guten Abend!",
+	"Das war ein guter Tag."
+    ]
+}
