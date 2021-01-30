@@ -1,17 +1,39 @@
 {
     "anytime" : [
-        "Du siehst gut aus!"
+        "Du siehst gut aus!",
+	 "Wofür bist du heute dankbar?"
+	 "Heute schon gelächelt?",
+	 "Streu Glitzer drauf!",
+	 "Hello world!",
+	 "Du siehst heute großartig aus!",
+         "Heute ist ein großartiger Tag!",
+         "Du machst den unterschied!",
+         "Ein wunderschönes Lächeln, für einen wunderschönen Tag",	    
     ],
     "morning" : [
         "Guten Morgen!",
         "Hattest du schon Kaffee?",
-        "Auf in den Tag!"
+        "Auf in den Tag!",
+	"Du siehst top aus!",,
+	"Dein Haar ist mega heute!",
+        "Beginne den Tag mit einem Lächeln",
+        "Das wird ein schöner Tag!",
+        "Ist der Tag nicht großartig?",
+        "Mach dich bereit für einen großartigen Tag!"
     ],
     "afternoon" : [
-        "Bald ist Feierabend!"
+        "Bald ist Feierabend!",
+	"Was gibt es heute zum Abendessen?",
+	"Später Netflix?"
     ],
     "evening" : [
         "Guten Abend!",
-	"Das war ein guter Tag."
+	"Das war ein guter Tag.",
+	"Das war ein schöner Tag",
+	"Wofür bist du heute dankbar?",
+	"Deine 3 guten Dinge des Tages?",
+	"Die Couch ruft",
+	"Bald ist Schlafenszeit",
+	"La Le Lu..."    
     ]
 }
