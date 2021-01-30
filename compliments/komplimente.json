@@ -35,5 +35,41 @@
 	"Die Couch ruft",
 	"Bald ist Schlafenszeit",
 	"La Le Lu..."    
-    ]
+    ],
+    "day_sunny": [
+	"Heute ist ein sonniger Tag",
+	"Genieß die Sonne heute"
+	    ],
+    "snow": [
+        "Heute gibt es Neuschnee"
+	"Schneballschlacht?",
+        "Sollen wir einen Schneemann bauen?",
+    ],
+    "thunderstorm": [
+        "Achtung, Gewitter!"
+    ],
+    "....-01-01": [
+	"Gutes neues Jahr"
+    ],
+    "....-01-23": [
+	"Happy birthday Christian"
+    ],
+    "....-02-17": [
+	 "Happy birthday Michi"
+    ],
+   "....-07-14": [
+	"Happy birthday Lukas"
+       ],
+    "....-12-24": [
+        "Frohe Weihnachten"
+    ],
+    "....-12-25": [
+         "Frohe Weihnachten"
+    ],
+    "....-12-26": [
+        "Frohe Weihnachten"
+    ],
+    "....-12-31": [
+        "Guten Rutsch!"
+    ],	
 }
