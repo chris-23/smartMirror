@@ -8,7 +8,7 @@
 	 "Du siehst heute großartig aus!",
          "Heute ist ein großartiger Tag!",
          "Du machst den unterschied!",
-         "Ein wunderschönes Lächeln, für einen wunderschönen Tag",	    
+         "Ein wunderschönes Lächeln, für einen wunderschönen Tag"    
     ],
     "morning" : [
         "Guten Morgen!",
@@ -43,7 +43,7 @@
     "snow": [
         "Heute gibt es Neuschnee",
 	"Schneballschlacht?",
-        "Sollen wir einen Schneemann bauen?",
+        "Sollen wir einen Schneemann bauen?"
     ],
     "thunderstorm": [
         "Achtung, Gewitter!"
